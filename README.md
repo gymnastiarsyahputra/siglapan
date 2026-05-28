@@ -248,9 +248,10 @@ Frontend berjalan di → **http://localhost:5173**
 
 | Nama | NIM | Peran |
 |---|---|---|
-| _(isi nama anggota)_ | _(isi NIM)_ | Backend & Database |
-| _(isi nama anggota)_ | _(isi NIM)_ | Frontend & UI |
-| _(isi nama anggota)_ | _(isi NIM)_ | Integrasi & Testing |
+| _(Abi Sholihan)_ | _(123140192)_ | Backend & Database |
+| _(Muhammad Ghama Al Fajri)_ | _(123140182)_ | Backend & Database |
+| _(M. Gymnastiar Syahputra)_ | _(123140135)_ | Frontend & UI |
+| _(Jordy Anugrah Akbar)_ | _(123140141)_ | Frontend & UI |
 
 ---
 
